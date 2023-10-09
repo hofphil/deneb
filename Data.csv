@@ -1,0 +1,14 @@
+Program;Trial;Milestone;Start;Finish;Level
+Program 1;NA;NA;01.01.2020;31.12.2030;Program
+Program 1;Trial 1;NA;01.01.2021;31.12.2024;Trial
+Program 1;Trial 1;MS1;01.01.2022;01.01.2022;Milestone
+Program 1;Trial 1;MS2;01.01.2023;01.01.2023;Milestone
+Program 1;Trial 1;MS3;01.01.2024;01.01.2024;Milestone
+Program 1;Trial 2;NA;01.01.2023;31.12.2026;Trial
+Program 1;Trial 2;MS1;01.01.2024;01.01.2024;Milestone
+Program 1;Trial 2;MS2;01.01.2025;01.01.2025;Milestone
+Program 1;Trial 2;MS3;01.01.2026;01.01.2026;Milestone
+Program 1;Trial 3;NA;01.01.2025;31.12.2028;Trial
+Program 1;Trial 3;MS1;01.01.2026;01.01.2026;Milestone
+Program 1;Trial 3;MS2;01.01.2027;01.01.2027;Milestone
+Program 1;Trial 3;MS3;01.01.2028;01.01.2028;Milestone
